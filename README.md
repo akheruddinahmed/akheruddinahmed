@@ -1,4 +1,4 @@
-# 💫 Hi 👋,Akher Uddin Ahmed
+# 💫 Hi 👋,I'm Akher Uddin Ahmed
 
 **A passionate Java Full Stack Developer || Spring Boot Developer || React Developer from India**
 
