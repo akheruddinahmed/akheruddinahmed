@@ -33,9 +33,9 @@ Email Me 👉 ✉️ **akheruddinahmedcse@gmail.com** For Collaboration/Project 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=akheruddinahmed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=akheruddinahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akheruddinahmed&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akheruddinahmed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akheruddinahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
@@ -47,7 +47,8 @@ Email Me 👉 ✉️ **akheruddinahmedcse@gmail.com** For Collaboration/Project 
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=akheruddinahmed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akheruddinahmed&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akheruddinahmed&theme=github_dark)
 
 ---
 
