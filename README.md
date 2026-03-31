@@ -39,7 +39,7 @@ Email Me 👉 ✉️ **akheruddinahmedcse@gmail.com** For Collaboration/Project 
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=akheruddinahmed&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=akheruddinahmed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
