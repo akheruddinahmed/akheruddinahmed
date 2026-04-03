@@ -31,26 +31,64 @@ Email Me 👉 ✉️ **akheruddinahmedcse@gmail.com** For Collaboration/Project 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=akheruddinahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akheruddinahmed&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akheruddinahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
 
-## 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=akheruddinahmed&theme=onedark&row=1&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akheruddinahmed&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akheruddinahmed&theme=github_dark)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akheruddinahmed&theme=radical" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=akheruddinahmed&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📈 Most Used Languages
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akheruddinahmed&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akheruddinahmed&theme=github_dark"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Consistency-🔥_Active-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Java_Full_Stack-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Practice-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-System_Design-purple?style=for-the-badge" />
+</p>
+
+---
+
+
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akheruddinahmed&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- 🔥 Building **Full Stack Projects (Spring Boot + React)**
+- 📚 Practicing **DSA daily**
+- 🧠 Learning **System Design & Scalable Architecture**
+
+---
+
+## 💡 Fun Fact
+
+⚡ I enjoy solving DSA problems and turning ideas into real-world applications 🚀
