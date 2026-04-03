@@ -39,7 +39,7 @@ Email Me 👉 ✉️ **akheruddinahmedcse@gmail.com** For Collaboration/Project 
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=akheruddinahmed&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=akheruddinahmed&theme=onedark&row=1&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 
